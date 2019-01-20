@@ -10,7 +10,7 @@
 var web_host = "0.0.0.0";
 
 // 服务器监听端口
-var web_port = 8007; 
+var web_port = 8087;
 
 // url前缀, '/fakeLottery'
 var url_prefix = "";
